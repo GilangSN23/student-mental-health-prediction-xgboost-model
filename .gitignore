@@ -16,3 +16,14 @@ npm-debug.log*
 # Others
 *.log
 .DS_Store
+*.ipynb
+*.csv
+*.pt
+*.h5
+*.bin
+*.onnx
+*.pickle
+*.pckl
+*.joblib
+package.json
+package-lock.json
